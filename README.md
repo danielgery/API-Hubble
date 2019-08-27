@@ -21,6 +21,7 @@
   <a href="https://paypal.me/kamilmysliwiec"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
   <a href="https://twitter.com/nestframework"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab2d94e7f2b64b81b3582f57b1d5d7c8)](https://app.codacy.com/app/danielgery/API-Hubble?utm_source=github.com&utm_medium=referral&utm_content=danielgery/API-Hubble&utm_campaign=Badge_Grade_Dashboard)
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
